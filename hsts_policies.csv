@@ -1,0 +1,25 @@
+Domain,HSTS Policy
+www.google.com,Not Found
+mail.google.com,max-age=31536000; includeSubDomains
+www.amazon.com,max-age=47474747; includeSubDomains; preload
+aws.amazon.com,max-age=63072000
+www.github.com,max-age=31536000; includeSubdomains; preload
+gist.github.com,max-age=31536000; includeSubdomains; preload
+www.wikipedia.org,max-age=106384710; includeSubDomains; preload
+en.wikipedia.org,max-age=106384710; includeSubDomains; preload
+www.stackoverflow.com,max-age=15552000
+meta.stackoverflow.com,max-age=15552000
+www.microsoft.com,Not Found
+outlook.live.com,Not Found
+www.apple.com,max-age=31536000; includeSubdomains; preload
+developer.apple.com,max-age=31536000; includeSubDomains
+www.netflix.com,max-age=31536000; includeSubDomains
+media.netflix.com,max-age=15552000; includeSubDomains
+www.paypal.com,max-age=63072000; includeSubDomains; preload
+developer.paypal.com,max-age=63072000; includeSubDomains; preload
+www.nytimes.com,max-age=63072000; preload; includeSubdomains
+cooking.nytimes.com,max-age=63072000; preload; includeSubdomains
+www.bbc.co.uk,max-age=31536000; preload
+www.bbc.com,max-age=31536000; preload
+www.reddit.com,max-age=31536000; includeSubdomains
+old.reddit.com,Not Found
